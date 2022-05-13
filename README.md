@@ -1,5 +1,5 @@
 # Repositório de estudos 👩‍🎓
-Primeiro Repositório - Desafios de projeto
+Criado para armazenar os resultados de desafios de projeto
 
 ## Links úteis
 [Sintaxe básica Markdown](https://www.markdownguide.org/)
